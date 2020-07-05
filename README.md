@@ -6,11 +6,10 @@
 
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
+## Run
+
+Run locally `heroku local web`
+
 ## Deploy 
 
-Run push command
-
-```
-git push heroku master
-```
 [How to deploy documentation](https://devcenter.heroku.com/articles/deploying-nodejs)
